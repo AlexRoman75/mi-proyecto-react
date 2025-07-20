@@ -17,6 +17,7 @@ function App() {
       <h1>Frontend React</h1>
       <p>Respuesta del backend:</p>
       <strong>{mensaje}</strong>
+      <h1>Hola, este es mi nuevo cambio</h1>
     </div>
   );
 }
